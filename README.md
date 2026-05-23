@@ -2,7 +2,7 @@
 ### 그동안 학원에서 배운 데일리 용어정리
 
 #### 1. HashCode
-- 22 April, 2026
+- 21 April, 2026
     - HashCode란 객체를 빠르게 찾기 위한 정수값(Hash Value)이다.
 
     예를 들어, "Apple".GetHashCode()
